@@ -66,6 +66,17 @@ body{
 	justify-content: space-between;
 	align-items: center;
 }
+.header-links{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.header-links a{
+	margin-right: 1rem;
+}
+.logo{
+	margin-left: 1rem;
+}
 .main {
 	grid-area: main;
 }
